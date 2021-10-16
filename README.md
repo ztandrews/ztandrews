@@ -22,3 +22,8 @@
 <img align="left" alt="AWS" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
 
 <br>
+
+### Connect With Me:
+[<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/zach-andrews-634a16192/
