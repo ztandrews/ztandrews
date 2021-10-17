@@ -3,7 +3,7 @@
 ## About Me:
 - 📚 I'm a Monmouth University student working towards my M.S. in Computer Science with a concentration in Databases and Intelligent Information Systems
 - 👀 I’m interested in Scripting Languages, Web Development, Databases, and Data Science
-- 📈 I’m currently learning ReactJS, Machine Learning with Python, and Full-Stack Engineering
+- 📈 I’m currently learning React, Machine Learning with Python, and Full-Stack Engineering
 - 💳 I'm an intern at a FinTech company
 
 ## Skills:
