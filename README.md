@@ -46,4 +46,4 @@
 [<img align="left" alt="LinkedIn" width="29px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" />][Email]
 
 [linkedin]: https://www.linkedin.com/in/zach-andrews-634a16192/
-[Email]: ztandrews18@sbcglobal.net
+[Email]: mailto:ztandrews18@sbcglobal.net
