@@ -4,7 +4,7 @@
 - 📚 I'm a Monmouth University student working towards my M.S. in Computer Science with a concentration in Databases and Intelligent Information Systems
 - 👀 I’m interested in Scripting Languages, Web Development, Databases, and Data Science
 - 📈 I’m currently learning ReactJS, Machine Learning with Python, and Full-Stack Engineering
-- 💳 I have experience in the FinTech industry
+- 💳 I'm an intern at a FinTech company
 
 ## Skills:
 ### Languages
@@ -43,5 +43,7 @@
 
 ## Connect With Me:
 [<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="29px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" />][Email]
 
 [linkedin]: https://www.linkedin.com/in/zach-andrews-634a16192/
+[Email]: ztandrews18@sbcglobal.net
